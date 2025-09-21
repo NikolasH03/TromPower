@@ -20,9 +20,7 @@
 ---
 
 ## Screenshots
-![Login](Docs/Login.PNG)
-![Gameplay](Docs/Game.PNG)
-![Gameplay](Docs/Game2.PNG)
+<img src="Docs/Login.PNG" width="250"/> <img src="Docs/Game.PNG" width="250"/> <img src="Docs/Game2.PNG" width="250"/>
 
 ---
 
