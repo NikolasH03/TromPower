@@ -20,7 +20,7 @@
 ---
 
 ## Screenshots
-<img src="Docs/Login.PNG" width="250"/> <img src="Docs/Game.PNG" width="250"/> <img src="Docs/Game2.PNG" width="250"/>
+<img src="Docs/Login.png" width="250"/> <img src="Docs/Game.png" width="250"/> <img src="Docs/Game2.png" width="250"/>
 
 ---
 
