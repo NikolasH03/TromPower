@@ -19,8 +19,10 @@
 
 ---
 
-## Screenshots / GIFs
-![TromPower](Docs/trompower.gif)
+## Screenshots
+![Login](Docs/Login.PNG)
+![Gameplay](Docs/Game.PNG)
+![Gameplay](Docs/Game2.PNG)
 
 ---
 
@@ -30,7 +32,7 @@
 - Control mediante teclado y mouse.  
 
 ### Instalación
-1. Descarga la última [release](https://github.com/NikolasH03/TromPower/releases).  
+1. Descargar la carpeta Ejecutable en el proyecto
 2. ejecuta el `.exe` en PC.  
 3. ¡Inicia la partida y derrota a los otros trompos antes de que acabe el tiempo!  
 
